@@ -8,8 +8,6 @@ public class MusicPlayerApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MusicPlayerApplication.class, args);
-
-        // DON'T PEEK INTO OR COPY FROM OTHER PROJECTS !!!
     }
 
 }
